@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 250px;
+    top: 298px;
+    border-radius: 0px;    
+   
+    justify-content: center;
+    align-items: center;
+}
+ img {
+     width: 310px;
+     height: 122px;
+ }
+  slidebar{
+      padding: 5dp;
+  }
+  .a{
+      display:flex;
+  }
+  .two{
+    position: absolute;
+    width: 510px;
+    height: 210px;
+    align-items: center;
+    justify-items: center;
+    flex-wrap: wrap;
+    background: #EFEFEF;
+  }
+  .sl{
+      background-color: black;
+      border: 2;
+      font-style: normal;
+      color: white;
+      display:flow-root;
+      width: 100%;
+  }
+  .slidebar{
+    background-color: black;
+    border: 2;
+    font-style: normal;
+    color: white;
+    display:flexbox;
+}
+.a{
+    padding-left: 20dp;
+}
+
+ 
+  
